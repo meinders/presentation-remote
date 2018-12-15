@@ -28,4 +28,8 @@
         <connection>scm:git:https://github.com/meinders/presentation-remote.git</connection>
         <url>https://github.com/meinders/presentation-remote</url>
     </scm>
+
+    <properties>
+        <jetty.version>9.4.14.v20181114</jetty.version>
+    </properties>
 </project>

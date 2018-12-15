@@ -42,12 +42,12 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.0.4.v20130625</version>
+            <version>${jetty.version}</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-webapp</artifactId>
-            <version>9.0.4.v20130625</version>
+            <version>${jetty.version}</version>
         </dependency>
         <dependency>
             <groupId>com.github.meinders</groupId>
